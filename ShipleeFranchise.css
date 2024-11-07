@@ -1,0 +1,109 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Hero Section Styles */
+.hero {
+    background-color: #36e052;
+    padding: 100px 0;
+    text-align: center;
+    background-image: url('b:\Java Practice\ENHANCED IOT\Sample Images\Penguins.jpg');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+/* Why Choose Shiplee? Section Styles */
+.why-choose-shiplee {
+    padding: 50px 0;
+}
+
+.why-choose-shiplee ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Franchise Benefits Table Styles */
+.franchise-benefits table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* From Anywhere to Everywhere Section Styles */
+.from-anywhere-to-everywhere {
+    padding: 50px 0;
+}
+
+.from-anywhere-to-everywhere img {
+    width: 100%;
+    height: auto;
+}
+
+/* Partner Logos Section Styles */
+.partner-logos ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.partner-logos li {
+    margin: 10px;
+}
+
+.partner-logos img {
+    width: 100px;
+    height: 50px;
+    object-fit: contain;
+}
+
+/* Scroll-to-top Button Styles */
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+.read-more{
+    color: white;
+    background-color: #053057;
+    border: transparent;
+    cursor:pointer;
+    border-radius: 5px;
+    height: 30px;
+    
+}
+.learn-more{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 35px;
+}
+.learn-more:active{
+    color:black;
+    background-color:transparent;
+   
+    
+    
+
+}
+
+    
+
+
+
+
+  
